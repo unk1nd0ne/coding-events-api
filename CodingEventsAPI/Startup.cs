@@ -51,7 +51,7 @@ namespace CodingEventsAPI {
           options.RoutePrefix = ""; // root path of the server
           options.SwaggerEndpoint(
             "/swagger/v1/swagger.json",
-            "Patrick's Coding Events API Documentation"
+            "Zac's Coding Events API Documentation"
           );
         }
       );
